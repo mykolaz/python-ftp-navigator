@@ -1,14 +1,5 @@
 import paramiko
 
-import boto3
-
-import logging
-
-import datetime
-
-import os
-
-
 class FTP():
 
     # Initialize variables
